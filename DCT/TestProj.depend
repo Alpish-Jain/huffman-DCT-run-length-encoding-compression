@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602609325 source:c:\users\alpish\desktop\codeblocks\testproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607394585 source:c:\users\alpish\desktop\codeblocks\project-3 dct\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
