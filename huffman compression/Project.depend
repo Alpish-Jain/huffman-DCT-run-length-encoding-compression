@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603731769 source:c:\users\alpish\desktop\codeblocks\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
