@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603736941 source:c:\users\alpish\desktop\codeblocks\temp\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1603771460 source:c:\users\alpish\desktop\codeblocks\project-2 huff decom\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
